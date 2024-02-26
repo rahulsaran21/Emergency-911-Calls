@@ -19,7 +19,7 @@ This is an open-source dataset project about emergency 911 calls made in Montgom
 
 ### High Call Volume Days
 
-- The analysis revealed a significant spike in the number of calls on specific days, such as March 2, 2018, and November 15, 2018, which had over 1300 calls each.
+- The analysis revealed a significant spike in the number of calls on specific days, such as March 2, 2018, which had over 2100 calls.
 - Further analysis could explore the reasons behind these spikes and how they relate to specific emergencies or events.
 
 ### Trend Analysis
@@ -87,3 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source libraries used in this project
 
 ---
+
+### Kaggle Notebook Link
+
+The detailed analysis can be found in the [Kaggle notebook](https://www.kaggle.com/code/rahulsaranm/emergency-911-calls-data-analysis).
